@@ -1,5 +1,5 @@
 <!-- TITLE: Andy's S3 Notes -->
-<!-- SUBTITLE: A quick summary of My Second Page -->
+<!-- SUBTITLE: These are notes from  a udemy course Andy is taking -->
 
 # S3 101
 
