@@ -2,6 +2,7 @@
 <!-- SUBTITLE: A quick summary of Raquels Test Page -->
 
 # Project Document/Readme Template:
+Let's standardize the type of information we provide in our project documentation. This is a suggested template for a readme based upon current redmine wiki's, our best practice suggestions and this example: https://github.com/jehna/readme-best-practices
 
 ## Project Summary
 
