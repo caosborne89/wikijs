@@ -1,5 +1,5 @@
 <!-- TITLE: Andy's S3 Notes -->
-<!-- SUBTITLE: These are notes from  a udemy course Andy is taking -->
+<!-- SUBTITLE: These are notes from  a udemy course on AWS that Andy is taking -->
 
 # S3 101
 
@@ -13,7 +13,7 @@ S3 is a safe place to store files. It is Object-based storage. You can store pdf
 * There is unlimited storage
 * Files are stored in Buckets 
 * Bucket is a folder inside the cloud that has a universal namespace (it will have a DNS address)
-* Bucket name -> https://s3-eu-west-1.amazonaws.com/bucketname
+* Bucket name - https://s3-eu-west-1.amazonaws.com/bucketname
 * You receive a HTTP 200 code when an upload is successful
 
 ### Data Consistancy model For S3
