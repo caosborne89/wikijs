@@ -13,3 +13,4 @@ Describe why the project was started, what it does, what tools/languages are use
 make it easier for instructors and librarians to share library resources with
 students.  It consists of two main parts: a front-end application written in
 Backbone and a back-end application written in Symfony using the Doctrine ORM.
+{.is-info}
